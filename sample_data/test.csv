@@ -1,0 +1,11 @@
+UHID,text,cancer,im_path,all_views_cancer
+UHID1,bl mastalgia  2 months,0,UHID1/UHID1_L_MLO.png,0
+UHID1,bl mastalgia  2 months,0,UHID1/UHID1_L_CC.png,0
+UHID2,co lump  pain  yellowish discharge from right breast since 10 days,0,UHID2/UHID2_R_MLO.png,0
+UHID2,co lump  pain  yellowish discharge from right breast since 10 days,0,UHID2/UHID2_L_CC.png,0
+UHID2,co lump  pain  yellowish discharge from right breast since 10 days,0,UHID2/UHID2_L_MLO.png,0
+UHID2,co lump  pain  yellowish discharge from right breast since 10 days,0,UHID2/UHID2_R_CC.png,0
+UHID3,screening mammogram,1,UHID3/UHID3_R_MLO.png,1
+UHID3,screening mammogram,1,UHID3/UHID3_R_CC.png,1
+UHID3,screening mammogram,0,UHID3/UHID3_L_CC.png,1
+UHID3,screening mammogram,0,UHID3/UHID3_L_MLO.png,1
